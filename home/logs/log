@@ -1,0 +1,5 @@
+[D 170910 10:46:40 LoginHandler:194] this is debug msg
+[I 170910 10:46:40 LoginHandler:195] this is info msg
+[W 170910 10:46:40 LoginHandler:196] this is warning msg
+[E 170910 10:46:40 LoginHandler:197] this is error msg
+
